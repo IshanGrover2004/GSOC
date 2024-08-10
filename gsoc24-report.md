@@ -29,5 +29,5 @@ My project is focused on supporting this migration as part of the effort to fina
 
 ## Acknowledgements
 I want to thank **Carlos Fernandez Sanz** for creating this incredible product and for the opportunity to collaborate with Google Summer of Code.  
-I'm also very grateful to my mentors, **Punit Lodha**, **canihavesomecoffee**, and **thealphagod**, for helping & guiding in contribution. 
+I'm also very grateful to my mentors, **Punit Lodha**, **canihavesomecoffee**, and **thealphadollar**, for helping & guiding in contribution. 
 A special thanks to Prateek Sunal for collaborating and working with me in this project.
