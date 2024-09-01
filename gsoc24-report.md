@@ -26,6 +26,7 @@ My project is focused on supporting this migration as part of the effort to fina
 | 9          | [#1628](https://github.com/CCExtractor/ccextractor/pull/1628) | Add encoding module in `lib_ccxr`                                         | **Merged** |
 | 10         | [#1629](https://github.com/CCExtractor/ccextractor/pull/1629) | Add C to Rust code migration guide (just a volunteer work)                | **Merged** |
 | 11         | [#1634](https://github.com/CCExtractor/ccextractor/pull/1634) | Add net module in `lib_ccxr`                                              | Open       |
+| 12         | [#1640](https://github.com/CCExtractor/ccextractor/pull/1640) | Add timing module in `lib_ccxr`                                           | **Merged** |
 
 ## Work left to do
 [Pull Request #1618](https://github.com/CCExtractor/ccextractor/pull/1618) has been completed, but some regression tests are still failing. I need to thoroughly investigate these issues to resolve the PR and get it merged.
